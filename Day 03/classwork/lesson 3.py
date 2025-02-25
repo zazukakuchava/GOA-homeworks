@@ -7,5 +7,8 @@ print(years)
 book=10.5 #ეს არის foalt რადგან ის არის ათწილადი
 print(book)
 
-
+print(10+5)
+print(10-5)
+print(10*5)
+print(10//5)
  
